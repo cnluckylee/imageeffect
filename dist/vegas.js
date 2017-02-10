@@ -90,7 +90,7 @@
             'zoomIn', 'zoomIn2',
             'zoomOut', 'zoomOut2',
             'swirlLeft', 'swirlLeft2',
-            'swirlRight', 'swirlRight2','horizontalRotate','horizontalRotate2'
+            'swirlRight', 'swirlRight2'
         ];
 
         this.animations = [
